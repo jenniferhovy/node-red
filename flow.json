@@ -47,8 +47,8 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 390,
-        "y": 140,
+        "x": 430,
+        "y": 80,
         "wires": []
     }
 ]
